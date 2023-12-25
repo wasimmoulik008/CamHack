@@ -50,7 +50,7 @@ apt update -y
 apt upgrade -y
 pkg install python git -y
 git clone https://github.com/wasimmoulik008/CamHack
-cd Link-X
+cd CamHack
 python setup.py
 python link-x.py
 ```
